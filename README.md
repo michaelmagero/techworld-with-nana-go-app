@@ -7,6 +7,8 @@
 
 <p>I have decided to share it with all beginners learning Go and hope it serves as a quick refresher for everyone taking Nana's Tutorial.</p>
 
+<p>The Tips and points to note are made as comments on the codebase with an aim of explaining the different sections of the code and what it does.</p>
+
 <p>Anyone is free to add on and update the points marked as "NOTE" and also the definitions for different implementations across the docs. If you have better Ideas about how this docs can be improved Just send me an email at <a href="mailto:michaelmagero2@gmail.com">michaelmagero2@gmail.com</a> and I will add you as a contributor to the repository.</p>
 
 <p>Also feel free to Star the repository or Fork it to make it even better and easy for beginners to understand this tutorial even better.</p>
